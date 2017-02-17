@@ -1,0 +1,3 @@
+MATLAB=/usr/local/bin/matlab
+MATLABPATH=/usr/local/MATLAB/R2015b
+MATLABVERS=2015b
