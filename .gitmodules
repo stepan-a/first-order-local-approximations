@@ -1,0 +1,3 @@
+[submodule "modules/dynare"]
+	path = modules/dynare
+	url = git@github.com:DynareTeam/dynare.git
